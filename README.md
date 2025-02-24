@@ -1,1 +1,1 @@
-Im not sure what im suppose to include in the github.  So I only provided my code for my application, that I used in pycharm.
+This is my application SaveMore for my Final Project.  I am currently still working on this application and need to add more things.  I need to include more into the sections budgeting and Settings.  I am happy with my progress and it came out better than I expected.  
