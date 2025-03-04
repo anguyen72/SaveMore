@@ -1,1 +1,1 @@
-This is my application SaveMore for my Final Project.  I am currently still working on this application and need to add more things.  I need to include more into the sections budgeting and Settings.  I am happy with my progress and it came out better than I expected.  
+This is my application SaveMore for my final project.  I have included the documents for the user manual and validation testing.  The source code is also included.
